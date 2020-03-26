@@ -15,3 +15,16 @@ print(movie)
 print(time)
 print(score)
 
+print(type(movie))
+print(type(time))
+print(type(score))
+
+
+
+movie ="Avengers Endgame"
+time =181
+score =8.4
+
+print(movie)
+print(time)
+print(score)
